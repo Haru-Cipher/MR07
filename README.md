@@ -7,6 +7,12 @@ Lemma 4.5 旨在證明：於給定晶格上依離散高斯分佈 (Discrete Gauss
 
 [Lemma4.5圖片](https://github.com/Haru-Cipher/GPV08/blob/main/MR07/Lemma45_Combined_View.gif)
 
+以s做變化:
+
+[Lemma 4.2圖片(first moment)](https://github.com/Haru-Cipher/MR07/blob/main/MR07/first_moment_s_animation.gif)
+
+[Lemma 4.2圖片(second moment)](https://github.com/Haru-Cipher/MR07/blob/main/MR07/second_moment_double_peak.gif)
+
 ---
 #### 視覺化模型與數學公式對應指南
 
