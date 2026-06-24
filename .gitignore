@@ -1,0 +1,17 @@
+﻿# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated folders
+slprj/
+codegen/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS metadata
+.DS_Store
+Thumbs.db

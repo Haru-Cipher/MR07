@@ -1,17 +1,17 @@
-
+﻿
 ### Lemma 4.5 核心幾何與物理意涵：完美相消干涉
 
 Lemma 4.5 旨在證明：於給定晶格上依離散高斯分佈 (Discrete Gaussian Distribution) 抽取樣本 $\mathbf{x}$ 時，其在特定向量方向 $\mathbf{v}$ 上之複數相位的期望值將漸近於零。
 
 就幾何與物理直覺而言，此現象可視為複數單位圓上發生的「**完美相消干涉**」(Destructive Interference)，亦即系統內多方力矩達到完美對稱與平衡的狀態。
 
-[Lemma4.5圖片](https://github.com/Haru-Cipher/GPV08/blob/main/MR07/Lemma45_Combined_View.gif)
+[Lemma4.5圖片](04_assets/gifs/Lemma45_Combined_View.gif)
 
 以s做變化:
 
-[Lemma 4.2圖片(first moment)](https://github.com/Haru-Cipher/MR07/blob/main/MR07/first_moment_s_animation.gif)
+[Lemma 4.2圖片(first moment)](04_assets/gifs/first_moment_s_animation.gif)
 
-[Lemma 4.2圖片(second moment)](https://github.com/Haru-Cipher/MR07/blob/main/MR07/second_moment_double_peak.gif)
+[Lemma 4.2圖片(second moment)](04_assets/gifs/second_moment_double_peak.gif)
 
 ---
 #### 視覺化模型與數學公式對應指南
